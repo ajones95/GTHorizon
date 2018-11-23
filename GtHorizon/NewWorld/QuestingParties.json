@@ -1,0 +1,54 @@
+{
+  "partyList": [
+    {
+      "name": "New Party",
+      "lifeShare": false,
+      "lootShare": false,
+      "lives": 3,
+      "members": [
+        {
+          "userID": "fc32a428-284b-4542-93df-4a4c014924c9",
+          "privilege": 2
+        },
+        {
+          "userID": "d8329a4a-9de5-4c71-8c3e-f0d618fe929f",
+          "privilege": 1
+        }
+      ]
+    }
+  ],
+  "nameCache": {
+    "fc32a428-284b-4542-93df-4a4c014924c9": "Zackkb9",
+    "499b751e-f106-41ae-8dfe-3b88a73958e0": "dogehog",
+    "9f996c78-bddc-4dec-a522-0df7267f11f3": "thegiggitygoo",
+    "d84f9654-87ea-46a9-881f-c6aa45dd5af8": "crazyj1984",
+    "634433ec-6256-44aa-97b3-a615be18ce23": "prewf",
+    "651b3963-038f-4769-9f75-0eaca0c4e748": "semmelx4",
+    "9550c173-a8c5-4e7f-bf8d-b5ded56921ef": "andreykv",
+    "86aa136e-9b5e-45e3-8273-6684fd7c537d": "falldark",
+    "09752aa3-8b9c-4f8f-b04f-5421e799547d": "leagris",
+    "44f38ff8-aad7-49c3-acb3-d92317af9078": "lagidiot",
+    "ca399a5b-d1bb-46e3-af5b-5939817b5cf8": "fobius",
+    "26c4881f-c708-4c5d-aa76-4419c3a1265b": "asturrial",
+    "c3ecbcc3-0d83-4da6-bb89-69f3f1a6e38b": "netmc",
+    "c4773470-2585-4bd7-82b3-8764ca6acd08": "crimsonhood17",
+    "fd3f46ac-801a-4566-90b5-75cb362d261e": "traumeister",
+    "7a56602b-9a67-44e3-95a5-270f887712c6": "walmart_employee",
+    "3aee80ab-d982-4e6d-b8d0-7912bbd75f5d": "doomsquirter",
+    "1239b45b-b3a3-4282-8143-c73778897dda": "twinsrock8",
+    "d8329a4a-9de5-4c71-8c3e-f0d618fe929f": "Adam5k",
+    "2f3a7dff-b1ec-4c05-8eed-63ad2a3ba73f": "dyonovan",
+    "17d57521-3a1e-4eb9-91e6-901a65c15e07": "ukdunc",
+    "00b157e5-cd97-43a2-a080-460f550e93cd": "jaidenc",
+    "7822ae35-9d5a-4fe7-bd5f-d03006932a65": "piky",
+    "b1781fc7-35ca-4255-a21c-cdb1b7ea1853": "ajes",
+    "1964e3d1-6500-40e7-9ff2-e6161d41a8c2": "bear989sr",
+    "c8c479b2-7464-4b20-adea-b43ff1c10c53": "immortalpharaoh7",
+    "8b06bcf9-7a94-45f9-a01f-2fff73e7582d": "0lafe",
+    "5652713c-668e-47f3-853a-3fa959a9dfd3": "draknyte1",
+    "f773e61f-261f-41e7-a221-5dcace291ced": "archoncerulean",
+    "578c2d13-9358-4ae8-95e7-a30ab9f9f3c7": "bartimaeusnek",
+    "004ae3d8-ecaf-48eb-9e4e-224d42d31c78": "stephen_2015",
+    "7e553c3b-b259-4c16-992a-c8c107401e74": "snaggerr"
+  }
+}
